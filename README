@@ -1,8 +1,8 @@
-### CBT File Mirror Information
-[[_TOC_]]
-<details closed><summary>Click to Expand (or Close)</summary>
 
 ## Git Information
+<details closed><summary>Click to Expand (or Close)</summary>
+
+### Background
 ```
 This CBTTAPE File was converted from the CBTTAPE distribution format
 so that it could be mirrored for access using GitHub. This is a partially
@@ -16,10 +16,6 @@ z/OS OMVS port of Git provided by Rocket software.
 **Note:** If you performed a git clone from OMVS without using ZIGI then
 you can use the zginstall.rex to 'upload' the files to z/OS, creating
 the z/OS datasets. See zginstall.readme for more information on it.
-
-Because of this process, any installation documentation or automation
-provided with the file may not work as provided and may require some
-adjustments.
 
 The CBTTAPE file is distributed as a ZIP file that contains, typically,
 an XMIT file. This XMIT file must then be received using TSO RECEIVE to
@@ -56,8 +52,16 @@ Manual (under OMVS):
 Manual (using ZIGI):
   1. ZIGI now performs the Git Add, Commit, and Push to the GitHub
      repository.
-</details>
 ```
+### Installation Information
+```
+Because of this process, any installation documentation or automation
+provided with the file may not work as provided and may require some
+adjustments.
+
+```
+
+</details>
 
 ## CBT File Information
 
