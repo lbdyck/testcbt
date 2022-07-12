@@ -7,8 +7,7 @@ of the project_
 Thank you for your interest in contributing to PROJECT NAME. This document
 explains our contribution process and procedures:
 
-* [How to Contribute a Bug Fix or Change]
-  (#How-to-Contribute-a-Bug-Fix-or-Change)
+* [How to Contribute a Bug Fix or Change](#How-to-Contribute-a-Bug-Fix-or-Change)
 * [Development Workflow](#Development-Workflow)
 * [Coding Style](#Coding-Style)
 
